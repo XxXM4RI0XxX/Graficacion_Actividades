@@ -1,0 +1,11 @@
+# Entornos virtuales
+.venv/
+Graphiker.venv/
+
+# JetBrains
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.env

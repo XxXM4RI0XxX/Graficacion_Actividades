@@ -13,6 +13,6 @@
 12. Pixel art con operadores puntuales??
 13. Filtro bilineal. Agrandar la imagen, rellenar pixeles vacíos que se generen en medio de la imagen. Rotar la imagen, y rellenar pixeles perdidos
 14. Con landmarks, dibujar un rectángulo entre las manos
-> Open GL
+    > Open GL
 15. Hacer un triángulo con primitivas (GL Triangles)
 16. Buscar que mas falta xD
