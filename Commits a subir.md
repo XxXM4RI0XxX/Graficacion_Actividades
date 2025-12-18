@@ -1,8 +1,8 @@
 > Open CV
 1. Localizar el centroide de una mancha (numpy, cv2) ✅
 2. Dibujo con primitivas (Ya lo tengo completado, es el carrito azul que parecía lancha xD) ✅
-3. Pelota que rebota en bordes de ventana, y esquiva otra pelota (esta otra pelota puede ser estática o también moverse) (numpy, cv2, math)
-4. Dibujar paramétricas (Creo que este también lo tengo completado)
+3. Pelota que rebota en bordes de ventana, y esquiva otra pelota (esta otra pelota puede ser estática o también moverse) (numpy, cv2, math) ✅
+4. Dibujar paramétricas (Creo que este también lo tengo completado) ✅
 5. Paint con cursor en ventana
 6. Paint con un color en la camara (cv2,numpy)
 7. Dibujar sobre cara figuras primitivas (cv2, haardcascade)... ponerme ojos, orejas, nariz, sombrero, boca, algunos accesorios xD, etc
