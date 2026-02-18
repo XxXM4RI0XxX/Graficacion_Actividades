@@ -56,8 +56,8 @@ while video.isOpened():
     cv2.circle(img_color, (cx_b, cy_b), 5, (255, 0, 0), -1)  # Bounding box en azul
     cv2.rectangle(img_color, (x, y), (x + w, y + h), (255, 255, 0), 2)
 
+    cv2.imshow("normal",vid)
     cv2.imshow("Only blue", result)
-    cv2.imshow("Spots", gray)
     cv2.imshow("Final", img_color)
     if cv2.waitKey(25) & 0xFF == ord('q'):
         break
